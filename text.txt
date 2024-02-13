@@ -1,0 +1,25 @@
+// Pseudocode
+1. Start
+2. Declare variables:
+   - firstName (string)
+   - lastName (string)
+   - streetAddress (string)
+   - city (string)
+   - zipCode (string)
+3. Prompt the user to input their first name
+4. Read and store the input in the firstName variable
+5. Prompt the user to input their last name
+6. Read and store the input in the lastName variable
+7. Prompt the user to input their street address
+8. Read and store the input in the streetAddress variable
+9. Prompt the user to input their city
+10. Read and store the input in the city variable
+11. Prompt the user to input their zip code
+12. Read and store the input in the zipCode variable
+13. Print the following information:
+    - "First Name: " + firstName
+    - "Last Name: " + lastName
+    - "Street Address: " + streetAddress
+    - "City: " + city
+    - "Zip Code: " + zipCode
+14. End
